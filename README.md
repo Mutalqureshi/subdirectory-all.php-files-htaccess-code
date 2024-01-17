@@ -1,0 +1,1 @@
+# subdirectory-all.php-files-htaccess-code
